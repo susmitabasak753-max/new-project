@@ -120,7 +120,7 @@
                     <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-zinc-900 dark:text-white leading-[1.1]">
                         Building High-Performance <br>
                         <span class="bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 bg-clip-text text-transparent">
-                            Web Applications & Systems
+                            Web Application & Systems
                         </span>
                     </h1>
 
